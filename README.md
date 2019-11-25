@@ -23,4 +23,11 @@ Otras caracteristicas:
 - JavaScript
 - CSS
 
+# Dashboard
+![Dashboard](https://raw.githubusercontent.com/luismigeek/control-vehicular-unicor/master/assets/home.png)
+
+# Vehiculos registrados
 ![Vehiculos registrados](https://raw.githubusercontent.com/luismigeek/control-vehicular-unicor/master/assets/vehiculos.png)
+
+# Panel Admin
+![Panel admin](https://raw.githubusercontent.com/luismigeek/control-vehicular-unicor/master/assets/admin.png)
