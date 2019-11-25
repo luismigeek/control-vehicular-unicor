@@ -22,3 +22,5 @@ Otras caracteristicas:
 - JQuery
 - JavaScript
 - CSS
+
+![Vehiculos registrados](https://raw.githubusercontent.com/luismigeek/control-vehicular-unicor/master/assets/vehiculos.png)
